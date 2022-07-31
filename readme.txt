@@ -1,7 +1,5 @@
-#########Chạy chương trình
-### Mở cửa sổ cmd tại nơi lưu file main.py sau đó nhập câu lệnh:
-python main.py
-### Không đóng cửa sổ cmd này
-### Sau đó mở cửa sổ cmd mới tại nơi lưu file main.py chạy lệnh:
-streamlit run main.py
-### Cửa sổ mới sẽ mở trong trình duyệt tại địa chỉ:http://localhost:8501/
+#########Run
+-Open the CMD window at the place where the main.py file is saved, then enter the command:python main.py
+-Do not close this CMD window
+-Then open the new CMD window at the place where the main.py file is saved:Streamlit Run Main.py
+-The new window will be opened in the browser at the address:http://localhost:8501/
